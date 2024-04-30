@@ -5,5 +5,3 @@
 This is the second application for the
 [*Ruby on Rails Tutorial*](https://railstutorial.jp/)
 by [Michael Hartl](http://www.michaelhartl.com/).
-
-Access [here](https://toy-app-by-monalisa.herokuapp.com/).
